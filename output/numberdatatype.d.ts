@@ -1,0 +1,10 @@
+declare var num1: number;
+declare var num2: number;
+declare var total: number;
+declare var octalNum: number;
+declare var hexNum: number;
+declare var binaryNum: number;
+declare var item: number;
+declare var item2: string;
+declare var convertedItem: number;
+declare var data: number | string;
